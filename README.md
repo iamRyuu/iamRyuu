@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Okay mi nomvre es Jorge :v
+</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamRyuu&show_icons=true&theme=transparent)
